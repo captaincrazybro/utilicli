@@ -1,0 +1,17 @@
+{
+  "name": "utilicli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "math": "./bin/math.js"
+  },
+  "dependencies": {
+    "mathjs": "^10.4.3"
+  }
+}
